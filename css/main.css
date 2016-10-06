@@ -1,0 +1,41 @@
+.top-bar{
+    background: #e2001a;
+    color: #fff;
+    height: 40px;
+    line-height: 20px;
+    padding: 5px 0;
+}
+.navbar{
+    margin-bottom: 0px;
+    background-color: #ffffff;
+}
+.navbar-brand {
+    padding: 0px; 
+}
+.right{
+    float:right;
+}
+.socio .fa {
+    color: #ffffff;
+    font-size: 1em;
+}
+.socio a:hover i.fa.fa-facebook {
+    color: #3b5998;
+}
+.socio a:hover i.fa.fa-twitter {
+    color: #55acee;
+}
+.socio a:hover i.fa.fa-google-plus {
+    color: #dc4e41;
+}
+.socio a:hover i.fa.fa-youtube-play {
+    color: #cd201f;
+}
+.tab-menu{
+    height:85px;
+    background-color: rgba(256,256,256,0.8);
+    border-radius: 2px;
+}
+.nav-tabs {
+    border-bottom: 0px; 
+}
